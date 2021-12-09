@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "bash deploy.sh"
   },
   "repository": "git+https://github.com/fantastic-cq/blog.git",
   "keywords": [],
